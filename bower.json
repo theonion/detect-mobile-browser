@@ -1,14 +1,14 @@
 {
-  "name": "detect-mobile-browser",
+  "name": "detect-mobile-browser-tablet-support",
   "version": "0.0.1",
   "authors": [
-    "vrebierr <vrebierr@student.42.fr>"
+    "Andrew Kos <akos@theonion.com>"
   ],
   "main": [
     "detectmobilebrowser.js"
   ],
   "dependencies": {
-    "jquery": "1.11.*"
+    "jquery": ">=1.11.0"
   },
   "keywords": [
     "detect",
@@ -16,5 +16,5 @@
     "browser",
     "jquery"
   ],
-  "homepage": "https://github.com/vrebierr/detect-mobile-browser"
+  "homepage": "https://github.com/theonion/detect-mobile-browser"
 }

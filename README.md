@@ -1,7 +1,7 @@
-detect-mobile-browser
-======================
+detect-mobile-browser-tablet-support
+====================================
 
-The missing detectmobilebrowser bower-package for jQuery
+The missing detectmobilebrowser bower-package for jQuery. Includes tablet support.
 
 <h1>Usage:</h1>
 
